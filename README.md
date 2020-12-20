@@ -1,5 +1,5 @@
 # NICF - SQL Fundamental for Beginners
-## by [Tertiary Infotech Pte. Ltd](https://www.tertiarycourses.com.sg/)
+## by [Tertiary Courses](https://www.tertiarycourses.com.sg/)
 
 These are the exercise files used for [NICF - SQL Fundamental for Beginners](https://www.tertiarycourses.com.sg/wsq-sql-beginners.html) course. 
 
